@@ -1,3 +1,6 @@
+#!/usr/bin/perl
+
+print "
 <html>
 <head>
 </head>
@@ -5,4 +8,4 @@
 <h1>good times now</h1>
 
 </body>
-</html>
+</html>\n";
